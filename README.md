@@ -1,4 +1,7 @@
-# Salesforce-helpfull-guide
+# Blogs
+
+Hi👋I'm Shivam Kapasia and here you can find some useful articles/blogs.
+
 Guide that contains some useful topics/code/tips for help your work.
 
 Link: https://github.com/shivamkapasia0/Salesforce-helpfull-guide/wiki
